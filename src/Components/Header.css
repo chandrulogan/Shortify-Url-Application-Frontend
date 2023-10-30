@@ -1,0 +1,20 @@
+.Header-logo-container{
+    /* border: 1px solid red; */
+    overflow: hidden;
+    width: 200px;
+    height: 50px;
+
+    object-fit: contain;
+}
+
+.Header-logo-container img{
+    width: 100%;
+    height: 100%;
+}
+
+.userName{
+    /* border: 1px solid red; */
+    display: flex;
+    gap: 5px;
+    font-weight: bolder;
+}

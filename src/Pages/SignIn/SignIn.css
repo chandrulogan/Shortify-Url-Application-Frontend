@@ -1,0 +1,28 @@
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+    font-weight: 400;
+    width: 100%;
+    height: 90vh;
+}
+
+.wrapper form {
+    padding: 1rem 2rem;
+    border-radius: 15px;
+}
+
+.form-fp{
+    /* border: 1px solid red; */
+    width: 100%;
+    display: flex;
+    justify-content: end;
+}
+
+.form-su{
+    /* border: 1px solid red; */
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
